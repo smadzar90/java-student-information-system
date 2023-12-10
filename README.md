@@ -54,15 +54,13 @@ Enter an option (e.g. 1-6):
 3. java -cp bin student.db.StudentDatabaseApp
 ```
 
-### Author
+
+### 👤 Author
 - Stipan Madzar
 
-
-
-
-
-
-
-
-
+  
+### 📧 Contact
+- ✉️ Email: smadzar90@student.se.edu
+- 🐙 GitHub: smadzar90
+- 💼 LinkedIn: Stipan Madzar
 
