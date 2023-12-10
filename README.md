@@ -1,11 +1,11 @@
 ## Student Information System (Java)
 
-### Description
+### 📚 Description
 
 The Student Information System is a Java-based project designed to manage and organize student records. It provides user-friendly interface and the system executes various student records management operations based on user input. User can insert a new records, delete records by ID, list all records, sort records, and list records by attributes. The system guarantees record persistence, saving them after each run. It uses a singly-linked list for storage and merge sort algorithm for efficient sorting, ensuring a good program efficiency.
 
 
-### Skills Used
+### 🚀 Skills Used
 
 - Java Programming
 - Object-Oriented Programming
@@ -16,7 +16,7 @@ The Student Information System is a Java-based project designed to manage and or
 - User interface design
 
 
-### Project Structure
+### 📁 Project Structure
 
 - `StudentDatabaseApp` - Displays a user interface, interprets user input, and processes the menagment operations
 - `InputValidator` - Validates user inputs and ensures that user enters valid properties
@@ -26,7 +26,7 @@ The Student Information System is a Java-based project designed to manage and or
 - `MyLinkedListSerialization` - Saves and loads student records through serialization and deserialization 
 
 
-### How to Use
+### 🛠️ How to Use
 
 When you run the program, the user interface will be displayed featuring options representing various operations to manage a student records database. Upon selecting a desired option, follow the steps guided by the user interface. In case an invalid option or input is provided, the interface will prompt you to re-enter until valid input is provided. To exit a student record database and halt the program enter '6' in the main options prompt. The modifications in the database will be saved and loaded on the next run.
 
@@ -46,7 +46,7 @@ Enter an option (e.g. 1-6):
 ```
 
 
-### How to Run
+### ⚙️ How to Run
 
 ```
 1. cd path_to/java-student-information-system
